@@ -1,0 +1,25 @@
+.picture {
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 260px 200px;
+  justify-content: center;
+}
+
+.port-wrap {
+  margin-top: 100px;
+}
+
+h3 {
+  font-size: 16px;
+  text-transform: uppercase;
+  color: rgb(236, 184, 7);
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 48px;
+  color: black;
+  margin-bottom: 48px;
+  margin-top: 0;
+}
