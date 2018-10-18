@@ -9,6 +9,8 @@ class Navigation extends Component {
         <li><a href={'#' + section}>{section}</a></li>
       )
     })
+
+    
     return (
       <div>
         <nav>
